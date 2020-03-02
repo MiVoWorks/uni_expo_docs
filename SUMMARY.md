@@ -7,10 +7,10 @@
 * [Environment Setup](requirements/environment-setup.md)
 * [Firebase Setup](requirements/firebase-setup.md)
 
-## AppAdmin Panel
+## Admin Panel Setup <a id="adminpanel"></a>
 
-* [Why I need Admin Panel](appadmin-panel/why-i-need-admin-panel.md)
-* [Create your first Admin panel](appadmin-panel/create-your-first-admin-panel.md)
+* [What is AppAdm.in](adminpanel/why-i-need-admin-panel.md)
+* [Create your first Admin panel](adminpanel/create-your-first-admin-panel.md)
 
 ## Run
 
