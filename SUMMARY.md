@@ -9,12 +9,12 @@
 
 ## Admin Panel Setup <a id="adminpanel"></a>
 
-* [What is AppAdm.in](adminpanel/why-i-need-admin-panel.md)
 * [Create your first Admin panel](adminpanel/create-your-first-admin-panel.md)
 
 ## Run
 
-* [Untitled](run/untitled.md)
+* [Setup app](run/untitled.md)
+* [Run App](run-app.md)
 
 ## Deploy
 
