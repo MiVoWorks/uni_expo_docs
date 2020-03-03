@@ -48,7 +48,7 @@ Next click on the switch button for **Advanced options.**
 
 After switching the button you will appear place for uploading schema file.
 
-From the source code you have downloaded, upload the file **APPADMIN.JSON**
+From the source code you have downloaded, upload the file **DemoData**/**xxxx.json**
 
 Select the switch: **I have UniExpo App?**
 
