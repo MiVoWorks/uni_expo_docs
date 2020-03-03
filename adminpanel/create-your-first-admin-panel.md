@@ -36,5 +36,13 @@ You can simply drop the file here or you can click to upload the template for yo
 
 Choose the template from your source code located in **templates** folder.
 
+Select the switch
+
+**I have UniExpo App?**
+
  Finally click on the button **Add new**.
+
+Now your admin is ready. 
+
+Click on the view panel link, and you can access your admin. There login with the user/pass you have created in your firebase database.
 
