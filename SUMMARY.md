@@ -9,12 +9,12 @@
 
 ## Admin Panel Setup <a id="adminpanel"></a>
 
-* [Create your first Admin panel](adminpanel/create-your-first-admin-panel.md)
+* [Create Admin panel](adminpanel/create-your-first-admin-panel.md)
 
 ## Run
 
 * [Setup app](run/untitled.md)
-* [Run App](run-app.md)
+* [Run App](run/run-app.md)
 
 ## Deploy
 

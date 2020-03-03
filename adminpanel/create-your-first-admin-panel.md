@@ -1,6 +1,18 @@
-# Create your first Admin panel
+# Create Admin panel
 
-Soon as you log in you will be able to create a new Admin Panel.
+#### What is AppAdm.in
+
+[AppAdm.in](https://appadm.in) is our own SaaS project. It is a CMS for Firebase.  
+The standard pricing is 6$/ 14$/ 26$ per month.   
+But with the purchase of any single UniExpo app there is an option to use it for free.   
+  
+Let's get started
+
+
+
+#### Make an AppAdm.in panel
+
+Soon as you log in you will be able to create a new Admin Panel. Login with your gmail account.
 
 On your dashboard you will see option for creating new Admin Panel. Click on **Create** button.
 
@@ -10,7 +22,9 @@ After clicking on Create button it will appear Google Popup for choosing account
 
 Choose the same account you use for creating firebase project. 
 
-Now you are able to start creating your first Admin panel. 
+
+
+#### Connect to your Firebase Database
 
 ![](../.gitbook/assets/orqmie1lc2wwzkqkwpmaij8a5uz1lewsicncvyru%20%281%29.png)
 
@@ -28,21 +42,19 @@ Copy Web Api Key and paste it in the form.
 
 
 
+#### Advance Options - upload you schema and say you have UniExpo App.
+
 Next click on the switch button for **Advanced options.**
 
-After switching the button you will appear place for uploading one of the available templates.
+After switching the button you will appear place for uploading schema file.
 
-You can simply drop the file here or you can click to upload the template for your directory.
+From the source code you have downloaded, upload the file **APPADMIN.JSON**
 
-Choose the template from your source code located in **templates** folder.
+Select the switch: **I have UniExpo App?**
 
-Select the switch
+Finally click on the button **Add new**.
 
-**I have UniExpo App?**
+Now admin panel is ready. 
 
- Finally click on the button **Add new**.
-
-Now your admin is ready. 
-
-Click on the view panel link, and you can access your admin. There login with the user/pass you have created in your firebase database.
+Click on the view panel link, and you can access your admin. There, login with the user/pass you have created in your firebase database.
 
