@@ -18,7 +18,7 @@
 
 ## Deploy
 
-* [Untitled](deploy/untitled.md)
+* [Deploy on Google Play and App Store](deploy/untitled.md)
 
 ## Components
 
