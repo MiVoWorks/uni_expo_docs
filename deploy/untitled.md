@@ -42,3 +42,11 @@ expo ui
 This command will upload the .ipa in your itunes Connect. First you will need to create an app there. The build will be available in TestFlight. And you can move it to be ready for review, and submit for review on Apple Review Team.
 {% endhint %}
 
+### Does this looks complex
+
+If this sounds complex for you, or you don't have Mac computer, we are offering Cloud App producer of the React App Builder, where we can make your app. More info here
+
+{% embed url="https://mobidonia.gitbook.io/react-app-builder/cloud/cloud-vs-self-hosted" %}
+
+
+
