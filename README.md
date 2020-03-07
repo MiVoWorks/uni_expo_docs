@@ -21,6 +21,10 @@ Now click on the link bellow to continue with the installation of Uni Expo App.
 7. Chat app
 8. Ticket Scanner
 
+{% hint style="info" %}
+React App Builder \( [link](https://codecanyon.net/item/react-app-builder-unlimited-number-of-apps/22649230) \) is another project, that uses all the above apps as templates. It has lot more options to combine sections and make a SaaS version where you can sell DIY app making services to your clients.
+{% endhint %}
+
 {% page-ref page="requirements/environment-setup.md" %}
 
 

@@ -23,4 +23,5 @@
 ## Components
 
 * [Navbar](components/navbar.md)
+* [Changelog](changelog.md)
 
