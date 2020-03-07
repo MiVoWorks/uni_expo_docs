@@ -24,4 +24,5 @@
 
 * [Navbar](components/navbar.md)
 * [Changelog](changelog.md)
+* [FAQ](faq.md)
 

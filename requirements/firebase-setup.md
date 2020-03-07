@@ -42,6 +42,13 @@ But for production, this is a good starting point. This will allow edit and writ
 ```
 {% endtab %}
 
+{% tab title="Insert Data" %}
+In your realtime database, click on the three dots on right, and select Import JSON.  
+In the project you downloaded from CodeCanyon there is a folder **SetupData** there is one .json file. Select that file and import it to your database.
+
+![](../.gitbook/assets/import_json.png)
+{% endtab %}
+
 {% tab title="Create Firestore DB" %}
 Go in Databases -&gt;Cloud Firestore
 
