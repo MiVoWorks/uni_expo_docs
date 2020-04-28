@@ -35,6 +35,8 @@ Bellow, there is a JSON of all the values that you can use to manage the app
         }
       },
       "category_first" : false,
+      "objectIdToShow: : "object_ID",
+      "goDirectlyToDetails" : false,
       "detailsSetup" : {
         "cartIcons" : [ "ios-calendar-outline", "ios-person-outline", "ios-card-outline", "ios-list-box-outline" ],
         "cartLabels" : [ "Event", "Register", "Payment", "Summary" ],
